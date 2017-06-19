@@ -1,0 +1,12 @@
+{
+    "name": "gabrieloliverio/laravel5-database-user-provider",
+    "type": "library",
+    "license": "GNU GPL",
+    "authors": [
+        {
+            "name": "Gabriel Olivério",
+            "email": "gabrieloliverio.py@gmail.com"
+        }
+    ],
+    "require": {}
+}
